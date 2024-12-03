@@ -1,7 +1,8 @@
 ---
 layout: default
 title: one-attestation-api
-parent: Labs
+parent: LFDT Labs
+grand_parent: Active Labs
 ---
 # Lab Name
 One Attestation API
@@ -16,7 +17,7 @@ The abstraction can benefit, and avoid redundant implementations in, multiple pr
 # Scope of Lab
 The scope of the lab is to provide tools and support for hardware/software attestations.
 Contributions from the community will help support additional attestation mechanisms and TEEs.
-Initially, we anticipate to integrate this tool in two Hyperledger projects: Fabric Private Chaincode and Private Data Objects.
+Initially, we anticipate to integrate this tool with: Fabric Private Chaincode and Private Data Objects.
 
 # Initial Committers
 - https://github.com/bvavala
